@@ -1,5 +1,4 @@
 import GuessingGame from "./GuessingGame";
-import "./GuessingGame.module.css"
 
 function App() {
   return (
